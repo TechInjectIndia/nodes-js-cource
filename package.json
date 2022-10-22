@@ -1,0 +1,20 @@
+{
+  "name": "nodes-js-course",
+  "version": "1.0.0",
+  "description": "crash course for Node Express ",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TechInjectIndia/nodes-js-course.git"
+  },
+  "author": "Tech Inject",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TechInjectIndia/nodes-js-course/issues"
+  },
+  "homepage": "https://github.com/TechInjectIndia/nodes-js-course#readme"
+}
